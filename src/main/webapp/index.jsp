@@ -7,7 +7,7 @@
 	<h1 style="color: red; font-size: 40px;" align="center">THIS IS APP DEPLOYMENT USING TOMCAT</h1>
 	<h1 style="color: green; font-size: 40px;" align="center">THIS IS tomcat-webhook-green</h1>
 	<h1 style="color: blue; font-size: 40px;" align="center">THIS IS nexus-new-version-green</h1>
-        <h1 style="color: red; font-size: 40px;" align="center">Finally test1 Deployment completed</h1>
+        <h1 style="color: black; font-size: 40px;" align="center">Finally task completed Deployment completed</h1>
 	
 	
 	
